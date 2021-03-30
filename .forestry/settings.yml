@@ -8,21 +8,21 @@ sections:
   label: Homepage
 - type: document
   path: exampleSite/content/english/_index.md
-  label: Homepage (en)
+  label: Homepage (tr)
 - type: document
   path: exampleSite/content/deutsch/_index.md
-  label: Homepage (de)
+  label: Homepage (en)
 - type: heading
   label: Blog
 - type: document
   path: exampleSite/content/english/blog/_index.md
-  label: Blog Page (en)
+  label: Blog Page (tr)
 - type: document
   path: exampleSite/content/deutsch/blog/_index.md
-  label: Blog Page (de)
+  label: Blog Page (en)
 - type: directory
   path: exampleSite/content/english/blog
-  label: Blog Post (en)
+  label: Blog Post (tr)
   create: documents
   match: "**/*"
   exclude: _index.md
@@ -30,7 +30,7 @@ sections:
   - post
 - type: directory
   path: exampleSite/content/deutsch/blog
-  label: Blog Post (de)
+  label: Blog Post (en)
   create: documents
   match: "**/*"
   exclude: _index.md
@@ -40,22 +40,22 @@ sections:
   label: Others Page
 - type: document
   path: exampleSite/content/english/contact/_index.md
-  label: Contact (en)
+  label: Contact (tr)
 - type: document
   path: exampleSite/content/deutsch/contact/_index.md
-  label: Contact (de)
+  label: Contact (en)
 - type: document
   path: exampleSite/content/english/pricing/_index.md
-  label: Pricing (en)
+  label: Pricing (tr)
 - type: document
   path: exampleSite/content/deutsch/pricing/_index.md
-  label: Pricing (de)
+  label: Pricing (en)
 - type: document
   path: exampleSite/content/english/faq/_index.md
-  label: FAQ (en)
+  label: FAQ (tr)
 - type: document
   path: exampleSite/content/deutsch/faq/_index.md
-  label: FAQ (de)
+  label: FAQ (en)
 - type: heading
   label: All Pages
 - type: directory
@@ -82,10 +82,10 @@ sections:
   label: Languages
 - type: document
   path: exampleSite/config/_default/menus.en.toml
-  label: Menu (en)
+  label: Menu (tr)
 - type: document
   path: exampleSite/config/_default/menus.de.toml
-  label: Menu (de)
+  label: Menu (en)
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
