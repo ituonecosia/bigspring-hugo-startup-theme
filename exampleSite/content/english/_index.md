@@ -11,7 +11,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know? Haa!
+  title: Something You Need To Know
   feature_item:
   - name: Clean Code
     icon: fas fa-code
@@ -98,5 +98,6 @@ call_to_action:
     enable: true
     label: Contact Us
     link: contact
+title: ee
 
 ---
