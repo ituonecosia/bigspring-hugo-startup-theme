@@ -1,9 +1,9 @@
 baseURL = "http://ituonecosia.netlify.com/"
 disqusShortname = ""
 googleAnalytics = ""
-paginate = "3"
+paginate = "5"
 summaryLength = "15"
 theme = "bigspring"
-title = "ITU on Ecosia!!"
+title = "ITU on Ecosia"
 [markup.goldmark.renderer]
 unsafe = true
