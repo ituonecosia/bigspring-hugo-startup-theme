@@ -5,7 +5,7 @@ footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristiqu
 footer_menu_left = "Firma"
 footer_menu_middle = "Produkte"
 footer_menu_right = "Support"
-languageName = "Tr"
+languageName = "En"
 title = "ITU on Ecosia"
 weight = 2
 [en]
@@ -17,4 +17,4 @@ footer_menu_middle = "Product"
 footer_menu_right = "Support"
 languageName = "En"
 title = "ITU on Ecosia"
-weight = 1
+weight = "1"
