@@ -6,7 +6,7 @@ banner:
     maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
     laborum officiis necessitatibus
   button:
-    enable: true
+    enable: false
     label: Contact With Us
     link: contact
 feature:
