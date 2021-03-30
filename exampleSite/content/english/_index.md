@@ -2,9 +2,7 @@
 banner:
   title: İstanbul Teknik Üniversitesi <br> Ecosia on Campus Projesi İle Tanışıyor
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: ''
   button:
     enable: false
     label: Contact With Us
