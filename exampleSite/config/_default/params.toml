@@ -6,7 +6,7 @@ logo_width = "200px"
 [navigation_button]
 enable = true
 label = "İndir"
-link = "ecosia.org"
+link = "https://www.ecosia.org/"
 [preloader]
 enable = false
 preloader = ""
