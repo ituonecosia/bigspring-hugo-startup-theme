@@ -15,11 +15,11 @@ sections:
 - type: heading
   label: Blog
 - type: document
-  path: exampleSite/content/english/blog/_index.md
-  label: Blog Page (en)
-- type: document
   path: exampleSite/content/deutsch/blog/_index.md
   label: Blog Page (de)
+- type: document
+  path: exampleSite/content/english/blog/_index.md
+  label: Blog Page (en)
 - type: directory
   path: exampleSite/content/english/blog
   label: Blog Post (en)
