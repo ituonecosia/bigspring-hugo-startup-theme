@@ -2,7 +2,7 @@ author = "ITU on Ecosia"
 contact_form_action = "mailto:ituonecosia@gmail.com"
 description = "Istanbul Technical University on Ecosia"
 logo = "images/logo.png"
-logo_width = "200px"
+logo_width = "100px"
 [navigation_button]
 enable = true
 label = "İndir"
