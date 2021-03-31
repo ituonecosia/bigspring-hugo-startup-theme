@@ -12,13 +12,13 @@ feature:
   title: Hızlıca Göz Atmak Gerekirse
   feature_item:
   - name: Ecosia Nedir?
-    icon: fas fa-code
+    icon: fa fa-globe
     content: Ecosia CO2-negative B-Lab sertifikalı bir arama motorudur
   - name: Ne Yapar?
-    icon: fas fa-object-group
+    icon: fa fa-tree
     content: Gelirinin %80'ini ağaç dikimi ve ormanlaştırma projelerine ayırır
   - name: Dahası?
-    icon: fas fa-user-clock
+    icon: fa fa-users
     content: 2009 yılında Berlinde kurulmuştur ve 15 milyondan fazla kullanıcıya sahiptir
 service:
   enable: true
