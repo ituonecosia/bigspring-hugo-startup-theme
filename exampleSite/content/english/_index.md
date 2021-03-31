@@ -37,7 +37,7 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Ecosia Nedir?
     images:
     - images/service-1.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
@@ -49,7 +49,7 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: Ecosia on Campus Nedir?
     images:
     - images/service-2.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
@@ -61,7 +61,7 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: A company standing different from others
+  - title: ITU on Ecosia Nedir?
     images:
     - images/service-3.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
