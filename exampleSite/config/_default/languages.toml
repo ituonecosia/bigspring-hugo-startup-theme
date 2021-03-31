@@ -1,7 +1,7 @@
 [de]
 contentDir = "content/deutsch"
 copyright = "Istanbul Technical University on Ecosia | 2021"
-footer_content = "Istanbul Technical University on Ecosia"
+footer_content = "Istanbul Technical University <br> on <br> Ecosia"
 footer_menu_left = "Firma"
 footer_menu_middle = "Produkte"
 footer_menu_right = "Support"
