@@ -13,7 +13,7 @@ feature:
   feature_item:
   - name: Ecosia Nedir?
     icon: fas fa-code
-    content: Ecosia bir arama motorudur
+    content: Ecosia CO2-negative B-Lab sertifikalı bir arama motorudur
   - name: Ne Yapar?
     icon: fas fa-object-group
     content: Gelirinin %80'ini ağaç dikimi ve ormanlaştırma projelerine ayırır
