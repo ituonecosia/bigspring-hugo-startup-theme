@@ -78,7 +78,7 @@ screenshot:
   title: Birlikte Daha Yeşil Bir Dünyaya!
   image: images/screenshot.svg
 call_to_action:
-  enable: true
+  enable: false
   title: Kullanmaya başlamak için
   image: images/cta.svg
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
