@@ -75,7 +75,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: Birlikte Daha Yeşil Bir Dünyaya!
   image: images/screenshot.svg
 call_to_action:
   enable: true
