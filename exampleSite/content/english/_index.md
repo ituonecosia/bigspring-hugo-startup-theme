@@ -19,7 +19,8 @@ feature:
     content: Gelirinin %80'ini ağaç dikimi ve ormanlaştırma projelerine ayırır
   - name: Dahası?
     icon: fa fa-users
-    content: 2009 yılında Berlinde kurulmuştur ve 15 milyondan fazla kullanıcıya sahiptir
+    content: 2009 yılında Berlin'de kurulmuştur ve 15 milyondan fazla kullanıcıya
+      sahiptir
 service:
   enable: true
   service_item:
