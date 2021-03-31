@@ -11,7 +11,7 @@ weight = 2
 [en]
 contentDir = "content/english"
 copyright = "Istanbul Technical University on Ecosia | 2021"
-footer_content = "Istanbul Technical University on Ecosia"
+footer_content = "#ITUonEcosia"
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
