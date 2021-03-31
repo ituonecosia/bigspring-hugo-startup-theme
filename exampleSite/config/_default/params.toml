@@ -1,5 +1,5 @@
 author = "ITU on Ecosia"
-contact_form_action = "ituonecosia@gmail.com"
+contact_form_action = "mailto:ituonecosia@gmail.com"
 description = "Istanbul Technical University on Ecosia"
 logo = "images/logo.png"
 logo_width = "200px"
