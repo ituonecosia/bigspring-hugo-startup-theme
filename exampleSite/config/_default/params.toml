@@ -11,6 +11,10 @@ link = "https://www.ecosia.org/"
 enable = false
 preloader = ""
 [[social]]
+icon = "fab fa-instagram"
+link = "#"
+title = "instagram"
+[[social]]
 icon = "fab fa-facebook"
 link = "#"
 title = "facebook"
@@ -18,11 +22,3 @@ title = "facebook"
 icon = "fab fa-twitter"
 link = "#"
 title = "twitter"
-[[social]]
-icon = "fab fa-skype"
-link = "#"
-title = "skype"
-[[social]]
-icon = "fab fa-linkedin"
-link = "#"
-title = "linkedin"
