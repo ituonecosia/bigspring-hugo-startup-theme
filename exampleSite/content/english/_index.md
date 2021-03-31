@@ -9,26 +9,17 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Hızlıca Göz Atmak Gerekirse
   feature_item:
-  - name: Clean Code
+  - name: Ecosia Nedir?
     icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
+    content: Ecosia bir arama motorudur
+  - name: Dahası?
     icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
+    content: 2009 yılında Berlinde kurulmuştur ve 15 milyondan fazla kullanıcıya sahiptir
+  - name: Ne Yapar?
     icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
-    icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Gelirinin %80'ini ağaç dikimi ve ormanlaştırma projelerine ayırır
 service:
   enable: true
   service_item:
