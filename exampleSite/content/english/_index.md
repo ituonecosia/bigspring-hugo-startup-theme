@@ -14,12 +14,12 @@ feature:
   - name: Ecosia Nedir?
     icon: fas fa-code
     content: Ecosia bir arama motorudur
-  - name: Dahası?
-    icon: fas fa-object-group
-    content: 2009 yılında Berlinde kurulmuştur ve 15 milyondan fazla kullanıcıya sahiptir
   - name: Ne Yapar?
-    icon: fas fa-user-clock
+    icon: fas fa-object-group
     content: Gelirinin %80'ini ağaç dikimi ve ormanlaştırma projelerine ayırır
+  - name: Dahası?
+    icon: fas fa-user-clock
+    content: 2009 yılında Berlinde kurulmuştur ve 15 milyondan fazla kullanıcıya sahiptir
 service:
   enable: true
   service_item:
