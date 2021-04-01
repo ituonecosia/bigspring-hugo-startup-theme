@@ -24,7 +24,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Ağaçlar her şeyi değiştirir
+  - title: ''
     images: []
     content: ''
     button:
