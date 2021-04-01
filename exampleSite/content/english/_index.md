@@ -41,14 +41,14 @@ service:
   - title: Ecosia Nedir?
     images:
     - images/ecosia-nedir.png
-    content: Ecosia, elde ettiği reklam gelirinin %80'ini ağaçlandırmaya odaklanan
-      kâr amacı gütmeyen yerel kuruluşlara bağışlayan bir arama motorudur. Bugüne
-      kadar Peru, Brezilya, Burkina Faso ve Endonezya gibi 16 farklı ülkede 120 milyondan
-      fazla ağaç dikilmesine öncülük etmiştir. Bunun yanı sıra şirket aylık finansal
-      raporlarını sitelerinde yayınlayıp yaptıkları yeşil yatırımları takipçileriyle
-      paylaşırlar. Ayrıca 2018 yılında gizlilik dostu bir arama motoru olmayı taahhüt
-      etmiştir ve bu amaçla kişisel verilerin reklamverenlere satılmadığı ve üçüncü
-      parti izleyicilerin kullanılmadığı belirtilmektedir.
+    content: Ecosia, elde ettiği reklam karın %80'ini (gelirinin% 47,1'i) ağaçlandırmaya
+      odaklanan kâr amacı gütmeyen yerel kuruluşlara bağışlayan bir arama motorudur.
+      Bugüne kadar Peru, Brezilya, Burkina Faso ve Endonezya gibi 16 farklı ülkede
+      120 milyondan fazla ağaç dikilmesine öncülük etmiştir. Bunun yanı sıra şirket
+      aylık finansal raporlarını sitelerinde yayınlayıp yaptıkları yeşil yatırımları
+      takipçileriyle paylaşırlar. Ayrıca 2018 yılında gizlilik dostu bir arama motoru
+      olmayı taahhüt etmiştir ve bu amaçla kişisel verilerin reklamverenlere satılmadığı
+      ve üçüncü parti izleyicilerin kullanılmadığı belirtilmektedir.
     button:
       enable: true
       label: Aylık Finansal Raporlar
