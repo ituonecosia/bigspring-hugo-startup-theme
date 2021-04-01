@@ -11,6 +11,9 @@ feature:
   enable: true
   title: Hızlıca Göz Atmak Gerekirse
   feature_item:
+  - name: ''
+    icon: ''
+    content: ''
   - name: Ecosia Nedir?
     icon: fa fa-globe
     content: Ecosia CO2-negative B-Lab sertifikalı bir arama motorudur
@@ -24,10 +27,14 @@ feature:
 service:
   enable: true
   service_item:
-  - title: ''
-    images: ''
+  - title: dsfgdfff
+    images:
+    - images/logo.png
     content: "..."
-    button: ''
+    button:
+      enable: true
+      label: dfghf
+      link: dsfdgfh
   - title: Ecosia Nedir?
     images:
     - images/ecosia-nedir.png
