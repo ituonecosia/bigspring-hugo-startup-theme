@@ -58,9 +58,9 @@ service:
       Güncel olarak Yale, UC Berkeley dahil olmak üzere 200 üniversitede kampanya
       sürdürülmektedir.
     button:
-      enable: false
-      label: Check it out
-      link: "#"
+      enable: true
+      label: Ecosia on Campus Kampanya Haritası
+      link: https://www.google.com/maps/d/u/0/viewer?mid=1gEjjUR24q80WZjLVPLBB50FREt12voqC&ll=30.98874392047369%2C20.198589408333874&z=2
   - title: ITU on Ecosia Nedir?
     images:
     - images/itu-on-ecosia-nedir.png
