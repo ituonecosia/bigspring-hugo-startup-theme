@@ -1,6 +1,6 @@
 ---
 banner:
-  title: İstanbul Teknik Üniversitesi <br> Ecosia on Campus Projesi İle Tanışıyor
+  title: İstanbul Teknik Üniversitesi <br> Ecosia on Campus Kampanyası İle Tanışıyor
   image: images/banner-art.svg
   content: ''
   button:
