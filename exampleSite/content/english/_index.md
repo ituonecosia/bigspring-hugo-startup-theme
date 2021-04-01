@@ -65,7 +65,7 @@ service:
       Güncel olarak Yale, UC Berkeley dahil olmak üzere 200 üniversitede kampanya
       sürdürülmektedir.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: ITU on Ecosia Nedir?
