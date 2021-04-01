@@ -77,7 +77,7 @@ service:
       tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
       consquat.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
 screenshot:
