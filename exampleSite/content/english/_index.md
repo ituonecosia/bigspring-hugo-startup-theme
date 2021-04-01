@@ -24,11 +24,11 @@ feature:
 service:
   enable: true
   service_item:
-  - title: ''
+  - title: Ağaçlar her şeyi değiştirir
     images: []
-    content: "..."
+    content: ''
     button:
-      enable: true
+      enable: false
       label: dfghf
       link: dsfdgfh
   - title: Ecosia Nedir?
