@@ -70,7 +70,7 @@ service:
       link: "#"
   - title: ITU on Ecosia Nedir?
     images:
-    - images/logo.png
+    - images/itu-on-ecosia-nedir.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
       sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
