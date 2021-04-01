@@ -1,7 +1,6 @@
 ---
-title: "Neuigkeiten"
-subtitle: ""
-# meta description
-description: "Dies ist die Metabeschreibung"
-draft: false
+title: Latest News!
+subtitle: ''
+description: Latest news of ITU on Ecosia campaign
+
 ---
