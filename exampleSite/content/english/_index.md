@@ -26,7 +26,7 @@ service:
   service_item:
   - title: ''
     images: ''
-    content: ''
+    content: "..."
     button: ''
   - title: Ecosia Nedir?
     images:
