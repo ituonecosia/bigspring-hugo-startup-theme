@@ -64,14 +64,15 @@ service:
   - title: ITU on Ecosia Nedir?
     images:
     - images/itu-on-ecosia-nedir.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: ITU on Ecosia, İstanbul Teknik Üniversitesi öğrencileri tarafından kampüs
+      bilgisayarlarının varsayılan arama motorunun Ecosia olması adına başlatılmış
+      bir sosyal kampanyadır. Kampanya, sosyal medya kanalları aracılığıyla Ecosia
+      adına farkındalığı arttırmayı amaçlar. İTÜ'ye özel üretilmiş olan link ile Ecosia
+      kullanmaya başlayan İTÜlülerin dikilmesine katkı sağladığı ağaç sayıları takip
+      edilir ve üniversite kamuoyu ile paylaşılır.
     button:
-      enable: false
-      label: Check it out
+      enable: true
+      label: İTÜ'ye özel üretilmiş Ecosia linki
       link: "#"
 screenshot:
   enable: true
