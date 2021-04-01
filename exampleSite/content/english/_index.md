@@ -24,6 +24,10 @@ feature:
 service:
   enable: true
   service_item:
+  - title: ''
+    images: ''
+    content: ''
+    button: ''
   - title: Ecosia Nedir?
     images:
     - images/ecosia-nedir.png
