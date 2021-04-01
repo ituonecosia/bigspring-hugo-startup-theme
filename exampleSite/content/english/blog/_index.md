@@ -1,6 +1,6 @@
 ---
-title: Latest News!
+title: Son Haberler!
 subtitle: ''
-description: This is meta description
+description: ITU on Ecosia son haberleri
 
 ---
