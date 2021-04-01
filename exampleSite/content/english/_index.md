@@ -40,16 +40,19 @@ service:
       link: "#"
   - title: Ecosia Nedir?
     images:
-    - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/ecosia-nedir.png
+    content: Ecosia, elde ettiği reklam gelirinin %80'ini ağaçlandırmaya odaklanan
+      kâr amacı gütmeyen yerel kuruluşlara bağışlayan bir arama motorudur. Bugüne
+      kadar Peru, Brezilya, Burkina Faso ve Endonezya gibi 16 farklı ülkede 120 milyondan
+      fazla ağaç dikilmesine öncülük etmiştir. Bunun yanı sıra şirket aylık finansal
+      raporlarını sitelerinde yayınlayıp yaptıkları yeşil yatırımları takipçileriyle
+      paylaşırlar. Ayrıca 2018 yılında gizlilik dostu bir arama motoru olmayı taahhüt
+      etmiştir ve bu amaçla kişisel verilerin reklamverenlere satılmadığı ve üçüncü
+      parti izleyicilerin kullanılmadığı belirtilmektedir.
     button:
       enable: true
-      label: Check it out
-      link: "#"
+      label: Aylık Finansal Raporlar
+      link: https://blog.ecosia.org/ecosia-financial-reports-tree-planting-receipts/
   - title: Ecosia on Campus Nedir?
     images:
     - images/service-2.png
