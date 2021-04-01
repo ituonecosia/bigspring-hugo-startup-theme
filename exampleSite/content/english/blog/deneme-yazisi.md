@@ -2,7 +2,7 @@
 date = 2021-03-31T21:00:00Z
 description = ""
 image = "/images/bob-ross.jpg"
-title = "Deneme Yazısı"
+title = "Deneme Yazısı "
 type = ""
 
 +++
