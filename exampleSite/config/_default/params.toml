@@ -5,8 +5,8 @@ logo = "images/logo.png"
 logo_width = "150px"
 [navigation_button]
 enable = true
-label = "İndir"
-link = "https://www.ecosia.org/"
+label = "İTÜ'ye özel Ecosia linki"
+link = "https://www.ecosia.org/ITU"
 [preloader]
 enable = false
 preloader = ""
