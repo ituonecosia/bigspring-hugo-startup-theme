@@ -55,12 +55,15 @@ service:
       link: https://blog.ecosia.org/ecosia-financial-reports-tree-planting-receipts/
   - title: Ecosia on Campus Nedir?
     images:
-    - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/ecosia-on-campus-nedir.png
+    content: Ecosia on Campus, Ecosia'yı üniversitelerde varsayılan arama motoru yapmak
+      için öğrenciler tarafından dünya çapında yürütülen bir kampanyadır. Bir üniversite
+      kampüs bilgisayarlarında Ecosia'ya geçtiğinde, bunun büyük bir etkisi olur ve
+      çoğu zaman binlerce ağaç dikilmesini sağlar. 3 yıldır sürdürülen kampanyada
+      University of Sussex, KU Leuven, Universidad Camilo José Cela başta olmak üzere
+      13 üniversite Ecosia'ya geçmiş ve öğrenciler sayesinde 175.000 ağaç dikilmiştir.
+      Güncel olarak Yale, UC Berkeley dahil olmak üzere 200 üniversitede kampanya
+      sürdürülmektedir.
     button:
       enable: true
       label: Check it out
