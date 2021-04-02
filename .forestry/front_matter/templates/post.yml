@@ -19,5 +19,6 @@ fields:
   name: description
   label: meta description
 pages:
+- exampleSite/content/deutsch/blog/trial-post.md
 - exampleSite/content/english/blog/deneme-yazisi.md
 - exampleSite/content/english/blog/deneme-yazisi.md
