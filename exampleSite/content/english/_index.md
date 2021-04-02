@@ -13,10 +13,10 @@ feature:
   feature_item:
   - name: Ecosia Nedir?
     icon: fa fa-globe
-    content: Ecosia CO2-negative B-Lab sertifikalı bir arama motorudur
+    content: Ecosia CO2-negatif ve B-Lab sertifikalı bir arama motorudur
   - name: Ne Yapar?
     icon: fa fa-tree
-    content: Gelirinin %80'ini ağaç dikimi ve ormanlaştırma projelerine ayırır
+    content: Karının %80'ini ağaç dikimi ve ormanlaştırma projelerine ayırır
   - name: Dahası?
     icon: fa fa-users
     content: 2009 yılında Berlin'de kurulmuştur ve 15 milyondan fazla kullanıcıya
