@@ -30,7 +30,7 @@ service:
       its revenue) from advertising revenue to support local non-profit organizations
       focused on afforestation and tree planting projects. Currently Ecosia has 42
       tree-planting projects across 25 countries such as Peru, Brazil, Burkina Faso
-      and Indonesia and to date it has planted more than <strong>120 million trees</strong>.
+      and Indonesia and to date it has planted <strong>more than 120 million trees</strong>.
       It states that on average it takes 45 internet searches to fund the\nplanting
       of a tree, and search results are provided by Bing and enhanced by the company's
       own algorithms. The company publishes its monthly financial reports on its sites
