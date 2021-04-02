@@ -1,30 +1,21 @@
 [[footer_left]]
-name = "About Us"
-url = "#"
+name = "About"
+url = "https://info.ecosia.org/about"
 [[footer_left]]
-name = "Quick Start"
-url = "#"
+name = "How Ecosia Works"
+url = "https://info.ecosia.org/what"
 [[footer_left]]
-name = "Pricing"
-url = "pricing"
+name = "FAQ"
+url = "https://ecosia.zendesk.com/hc/en-us"
 [[footer_middle]]
-name = "Pricing"
-url = "pricing"
+name = "About"
+url = "https://explore.ecosia.org/ecosia-on-campus"
 [[footer_middle]]
-name = "Platform"
-url = "#"
-[[footer_middle]]
-name = "Features"
-url = "#"
-[[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
-[[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
+name = "Blog"
+url = "https://blog.ecosia.org/ecosia-on-campus-more-unis/"
 [[footer_right]]
 name = "FAQ"
-url = "faq"
+url = "https://ituonecosia.netlify.app/faq"
 [[main]]
 name = "Home"
 url = "/"
