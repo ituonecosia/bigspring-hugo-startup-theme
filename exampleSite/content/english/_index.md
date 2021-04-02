@@ -24,13 +24,6 @@ feature:
 service:
   enable: true
   service_item:
-  - title: ''
-    images: []
-    content: ''
-    button:
-      enable: false
-      label: dfghf
-      link: dsfdgfh
   - title: Ecosia Nedir?
     images:
     - images/ecosia-nedir.png
