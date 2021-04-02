@@ -1,37 +1,25 @@
 ---
 banner:
-  title: Lassen Sie uns Ihre kritischen Herausforderungen bei der Website <br> Entwicklung
-    lösen
+  title: Istanbul Technical University <br> Meets Ecosia on Campus Campaign
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: ''
   button:
-    enable: true
+    enable: false
     label: Contact With Us
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know!
+  title: Let's Take A Quick Look
   feature_item:
-  - name: Clean Code
-    icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
-    icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
-    icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
-    icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: What is Ecosia?
+    icon: fa fa-globe
+    content: 'Ecosia is a CO2-negative and B-Lab certified search engine '
+  - name: What Does It Do?
+    icon: fa fa-tree
+    content: Allocates 80% of the profit for tree planting and reforestation projects.
+  - name: More?
+    icon: fa fa-users
+    content: 'Founded in Berlin in 2009 and has more than 15 million users '
 service:
   enable: true
   service_item:
