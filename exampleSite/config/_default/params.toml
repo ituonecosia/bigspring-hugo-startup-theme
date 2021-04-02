@@ -8,7 +8,7 @@ enable = true
 label = "İTÜ'ye özel Ecosia linki"
 link = "https://www.ecosia.org/ITU"
 [preloader]
-enable = true
+enable = false
 preloader = ""
 [[social]]
 icon = "fab fa-instagram"
