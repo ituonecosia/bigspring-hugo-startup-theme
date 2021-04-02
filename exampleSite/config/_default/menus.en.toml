@@ -1,20 +1,20 @@
 [[footer_left]]
-name = "How Ecosia Works"
+name = "Ecosia Nasıl Çalışır"
 url = "https://info.ecosia.org/what"
 [[footer_left]]
-name = "About"
+name = "Hakkında"
 url = "https://info.ecosia.org/about"
 [[footer_left]]
-name = "FAQ"
+name = "SSS"
 url = "https://ecosia.zendesk.com/hc/en-us"
 [[footer_middle]]
-name = "About"
+name = "Hakkında"
 url = "https://explore.ecosia.org/ecosia-on-campus"
 [[footer_middle]]
 name = "Blog"
 url = "https://blog.ecosia.org/ecosia-on-campus-more-unis/"
 [[footer_right]]
-name = "FAQ"
+name = "SSS"
 url = "https://ituonecosia.netlify.app/faq"
 [[main]]
 name = "Anasayfa"
