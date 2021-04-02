@@ -1,15 +1,12 @@
 ---
-title: "Kontakt"
-subtitle: ""
-# meta description
-description: "Dies ist die Metabeschreibung"
-draft: false
+title: Contact Us!
+subtitle: ''
+description: Istanbul Technical University on Ecosia
+
 ---
+You can contact us through the channels below to support the ITU on Ecosia campaign, to ask questions and to make suggestions.
 
-
-### Warum Sie uns kontaktieren sollten!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+*  **Mail**: ituonecosia@gmail.com
+*  **Instagram**: [https://www.instagram.com/ituonecosia/](https://www.instagram.com/ituonecosia/ "https://www.instagram.com/ituonecosia/") 
+* **Facebook**: 
+* **Twitter**:
