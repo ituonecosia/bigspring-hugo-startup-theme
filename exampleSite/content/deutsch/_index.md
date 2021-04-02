@@ -16,7 +16,7 @@ feature:
     content: 'Ecosia is a CO2-negative and B-Lab certified search engine '
   - name: What Does It Do?
     icon: fa fa-tree
-    content: Allocates 80% of the profit for tree planting and reforestation projects.
+    content: Allocates 80% of the profit for tree planting and reforestation projects
   - name: More?
     icon: fa fa-users
     content: 'Founded in Berlin in 2009 and has more than 15 million users '
