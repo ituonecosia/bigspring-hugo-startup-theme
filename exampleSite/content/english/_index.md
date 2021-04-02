@@ -59,7 +59,7 @@ service:
       link: https://www.google.com/maps/d/u/0/viewer?mid=1gEjjUR24q80WZjLVPLBB50FREt12voqC&ll=30.98874392047369%2C20.198589408333874&z=2
   - title: ITU on Ecosia Nedir?
     images:
-    - images/ecosia-logo-3.png
+    - images/itu-on-ecosia-nedir.png
     content: ITU on Ecosia, İstanbul Teknik Üniversitesi öğrencileri tarafından kampüs
       bilgisayarlarının varsayılan arama motorunun Ecosia olması adına başlatılmış
       bir sosyal kampanyadır. Kampanya, sosyal medya kanalları aracılığıyla Ecosia
