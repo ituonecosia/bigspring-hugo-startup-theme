@@ -44,7 +44,7 @@ service:
       link: https://blog.ecosia.org/ecosia-financial-reports-tree-planting-receipts/
   - title: Ecosia on Campus Nedir?
     images:
-    - images/ecosia-on-campus-nedir.png
+    - images/deneme.png
     content: Ecosia on Campus, Ecosia'yı üniversitelerde varsayılan arama motoru yapmak
       için öğrenciler tarafından dünya çapında yürütülen bir kampanyadır. Bir üniversite
       kampüs bilgisayarlarında Ecosia'ya geçtiğinde, bunun büyük bir etkisi olur ve
