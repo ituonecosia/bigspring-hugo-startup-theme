@@ -1,7 +1,7 @@
 author = "ITU on Ecosia"
 contact_form_action = "mailto:ituonecosia@gmail.com"
 description = "Istanbul Technical University on Ecosia, İstanbul Teknik Üniversitesi on Ecosia, Ecosia on Campus"
-logo = "images/logo.png"
+logo = "images/ecosia-logo-3.png"
 logo_width = "150px"
 [navigation_button]
 enable = true
