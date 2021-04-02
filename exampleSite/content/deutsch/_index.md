@@ -23,55 +23,50 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: What is Ecosia?
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/ecosia-nedir.png
+    content: 'Ecosia is a search engine that donates 80% of its profits (47.1% of
+      its revenue) to local non-profit organizations focused on afforestation. Ecosia
+      has pioneered the planting of more than <strong>120 million trees</strong> in
+      16 different countries such as Peru, Brazil, Burkina Faso and Indonesia. It
+      states that enough money is collected to plant a tree with approximately every
+      45 searches made, and search results are provided by Bing and enhanced by the
+      company''s own algorithms. The company publishes its monthly financial reports
+      on its sites and shares the green investments they make with their users. It
+      has also committed itself to be a privacy-friendly search engine in 2018, and
+      for this purpose, it is stated that personal data are not sold to advertisers
+      and third party trackers are not used. '
     button:
       enable: true
-      label: Check it out
-      link: "#"
-  - title: It is a privately owned Information and cyber security company
+      label: Ecosia's Financial Reports
+      link: https://blog.ecosia.org/ecosia-financial-reports-tree-planting-receipts/
+  - title: What is Ecosia on Campus?
     images:
-    - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/ecosia-on-campus-nedir.png
+    content: 'Ecosia on Campus is a worldwide campaign led by students to make Ecosia
+      the default search engine for universities. When a university switches to Ecosia
+      on campus computers, this has a huge impact and often results in thousands of
+      trees being planted. During the 3-year campaign, 13 universities, including
+      the University of Sussex, KU Leuven and Universidad Camilo José Cela, moved
+      to Ecosia and 175,000 trees were planted thanks to the students. Campaigns are
+      currently ongoing at 200 universities, including Yale and UC Berkeley. '
     button:
       enable: true
-      label: Check it out
-      link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+      label: Ecosia on Campus Campaign Map
+      link: https://www.google.com/maps/d/u/0/viewer?mid=1gEjjUR24q80WZjLVPLBB50FREt12voqC&ll=30.98874392047369%2C20.198589408333874&z=2
+  - title: What is ITU on Ecosia?
     images:
-    - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/itu-on-ecosia-nedir.png
+    content: 'ITU on Ecosia is a social campaign launched by Istanbul Technical University
+      students to make Ecosia the default search engine for campus computers. The
+      campaign aims to raise awareness on behalf of Ecosia through social media channels.
+      With the link specially produced for ITU, the number of trees that ITU students
+      who started using Ecosia contributed to planting are tracked and shared with
+      the university public. '
     button:
       enable: true
-      label: Check it out
-      link: "#"
-  - title: A company standing different from others
-    images:
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
+      label: Special Ecosia Link For ITU
       link: "#"
 screenshot:
   enable: true
