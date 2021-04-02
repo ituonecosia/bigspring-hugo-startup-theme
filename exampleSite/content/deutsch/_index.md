@@ -26,17 +26,18 @@ service:
   - title: What is Ecosia?
     images:
     - images/ecosia-nedir.png
-    content: 'Ecosia is a search engine that donates 80% of its profits (47.1% of
-      its revenue) to local non-profit organizations focused on afforestation. Ecosia
-      has pioneered the planting of more than <strong>120 million trees</strong> in
-      16 different countries such as Peru, Brazil, Burkina Faso and Indonesia. It
-      states that enough money is collected to plant a tree with approximately every
-      45 searches made, and search results are provided by Bing and enhanced by the
-      company''s own algorithms. The company publishes its monthly financial reports
-      on its sites and shares the green investments they make with their users. It
-      has also committed itself to be a privacy-friendly search engine in 2018, and
-      for this purpose, it is stated that personal data are not sold to advertisers
-      and third party trackers are not used. '
+    content: 'Ecosia is a search engine that uses 80% of its profits (47.1% of its
+      revenue) from advertising revenue to support local non-profit organizations
+      focused on afforestation and tree planting projects. Ecosia has pioneered the
+      planting of more than <strong>120 million trees</strong> in 16 different countries
+      such as Peru, Brazil, Burkina Faso and Indonesia. It states that enough money
+      is collected to plant a tree with approximately every 45 searches made, and
+      search results are provided by Bing and enhanced by the company''s own algorithms.
+      The company publishes its monthly financial reports on its sites and shares
+      the green investments they make with their users. It has also committed itself
+      to be a privacy-friendly search engine in 2018, and for this purpose, it is
+      stated that personal data are not sold to advertisers and third party trackers
+      are not used. '
     button:
       enable: true
       label: Ecosia's Financial Reports
