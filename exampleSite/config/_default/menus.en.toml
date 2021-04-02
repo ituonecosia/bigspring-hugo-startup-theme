@@ -14,9 +14,6 @@ url = "https://explore.ecosia.org/ecosia-on-campus"
 name = "Blog"
 url = "https://blog.ecosia.org/ecosia-on-campus-more-unis/"
 [[footer_right]]
-name = "Instagram"
-url = "https://www.instagram.com/ituonecosia/"
-[[footer_right]]
 name = "FAQ"
 url = "https://ituonecosia.netlify.app/faq"
 [[main]]
