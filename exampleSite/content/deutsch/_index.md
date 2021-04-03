@@ -74,7 +74,7 @@ screenshot:
   title: 'To a Greener World Together! '
   image: images/screenshot.svg
 call_to_action:
-  enable: false
+  enable: true
   title: ITU on Ecosia Kampanyasına Destek Olmaya Var Mısın?
   image: images/cta.svg
   content: Aşağıda yer alan butona tıkla, İTÜ'ye özel üretilmiş ecosia.org/ITU linki
