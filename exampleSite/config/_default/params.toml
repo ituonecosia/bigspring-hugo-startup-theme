@@ -5,7 +5,7 @@ logo = "images/ecosia-logo-3.png"
 logo_width = "150px"
 [navigation_button]
 enable = true
-label = "İTÜ'ye özel Ecosia linki"
+label = "ITU on Ecosia URL"
 link = "https://www.ecosia.org/ITU"
 [preloader]
 enable = false
