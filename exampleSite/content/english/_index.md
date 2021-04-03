@@ -68,8 +68,8 @@ service:
       edilir ve üniversite kamuoyu ile paylaşılır.
     button:
       enable: true
-      label: İTÜ'ye özel üretilmiş Ecosia linki
-      link: "#"
+      label: ITU on Ecosia URL
+      link: https://www.ecosia.org/ITU
 screenshot:
   enable: true
   title: Birlikte Daha Yeşil Bir Dünyaya!
