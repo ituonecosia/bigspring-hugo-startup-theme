@@ -75,15 +75,17 @@ screenshot:
   title: Birlikte Daha Yeşil Bir Dünyaya!
   image: images/screenshot.svg
 call_to_action:
-  enable: false
-  title: Kullanmaya başlamak için
+  enable: true
+  title: ITU on Ecosia Kampanyasına Destek Olmaya Var Mısın?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Aşağıda yer alan butona tıkla, İTÜ'ye özel üretilmiş ecosia.org/ITU linki
+    ile bilgisayarına veya telefonuna Ecosia'yı yükle ve kullanmaya başla, böylece
+    yaptığın aramalarla dikilmesine katkıda bulunduğun ağaçlar ITU on Ecosia Kampanya
+    sayacına eklensin!
   button:
     enable: true
-    label: Contact Us
-    link: contact
+    label: ITU on Ecosia URL
+    link: https://www.ecosia.org/ITU
 title: ''
 
 ---
