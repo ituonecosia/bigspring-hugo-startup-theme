@@ -75,12 +75,12 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: ITU on Ecosia Kampanyasına Destek Olmaya Var Mısın?
+  title: 'Are You Ready to Support the ITU on Ecosia Campaign? '
   image: images/cta.svg
-  content: Aşağıda yer alan butona tıkla, İTÜ'ye özel üretilmiş ecosia.org/ITU linki
-    ile bilgisayarına veya telefonuna Ecosia'yı yükle ve kullanmaya başla, böylece
-    yaptığın aramalarla dikilmesine katkıda bulunduğun ağaçlar ITU on Ecosia Kampanya
-    sayacına eklensin!
+  content: 'Click the button below, install Ecosia on your computer or phone with
+    the link ecosia.org/ITU produced exclusively for ITU and start using it, so that
+    the trees you contribute to planting will be added to the ITU on Ecosia Campaign
+    counter! '
   button:
     enable: true
     label: ITU on Ecosia URL
