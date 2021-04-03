@@ -13,7 +13,7 @@ feature:
   feature_item:
   - name: What is Ecosia?
     icon: fa fa-globe
-    content: 'Ecosia is a CO2-negative and B-Lab certified search engine '
+    content: 'Ecosia is a CO2-negative and certified B-Corp search engine '
   - name: What Does It Do?
     icon: fa fa-tree
     content: Uses 80% of its profit for tree planting and reforestation projects
