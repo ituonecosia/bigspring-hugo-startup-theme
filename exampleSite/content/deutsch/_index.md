@@ -67,8 +67,8 @@ service:
       the university public. '
     button:
       enable: true
-      label: Special Ecosia Link For ITU
-      link: "#"
+      label: ITU on Ecosia URL
+      link: https://www.ecosia.org/ITU
 screenshot:
   enable: true
   title: 'To a Greener World Together! '
