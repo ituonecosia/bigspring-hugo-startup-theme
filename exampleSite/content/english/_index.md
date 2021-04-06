@@ -69,7 +69,7 @@ service:
     button:
       enable: true
       label: ITU on Ecosia URL
-      link: https://www.ecosia.org/ITU
+      link: https://ecosia.co/ITU
 screenshot:
   enable: true
   title: Birlikte Daha Yeşil Bir Dünyaya!
