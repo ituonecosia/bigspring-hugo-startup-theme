@@ -85,7 +85,7 @@ call_to_action:
   button:
     enable: true
     label: ITU on Ecosia URL
-    link: https://www.ecosia.org/ITU
+    link: https://ecosia.co/ITU
 title: ''
 
 ---
