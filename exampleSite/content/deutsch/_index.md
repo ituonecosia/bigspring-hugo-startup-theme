@@ -68,7 +68,7 @@ service:
     button:
       enable: true
       label: ITU on Ecosia URL
-      link: https://www.ecosia.org/ITU
+      link: https://ecosia.co/ITU
 screenshot:
   enable: true
   title: 'To a Greener World Together! '
@@ -84,6 +84,6 @@ call_to_action:
   button:
     enable: true
     label: ITU on Ecosia URL
-    link: https://www.ecosia.org/ITU
+    link: https://ecosia.co/ITU
 
 ---
