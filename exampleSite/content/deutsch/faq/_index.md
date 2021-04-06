@@ -9,7 +9,7 @@ description: Istanbul Technical University on Ecosia
 
 {{< faq "What is CO2-negative?" >}} Ecosia started building its own solar power plants in 2018. Thus, clean energy has been provided to the servers ever since to run all Ecosia searches on 100% renewable energy. 
 
-By planting trees and balancing energy use with renewable energies, every search with Ecosia actually removes 1kg of CO2 from the air, making Ecosia a CO2-negative search engine. Here's the math: an average search generates around € 0.005 in revenue. The cost of planting a tree is about 0.25 €, so Ecosia can plant a tree approximately every 45 searches. On average, each of these trees will remove 50kg of CO2 from the atmosphere over an expected 15-year lifetime. 
+By planting trees and balancing energy use with renewable energies, **every search with Ecosia actually removes 1kg of CO2 from the air**, making Ecosia a CO2-negative search engine. Here's the math: an average search generates around €0.005 in revenue. The cost of planting a tree is about 0.25 €, so Ecosia can plant a tree approximately every 45 searches. On average, each of these trees will remove 50kg of CO2 from the atmosphere over an expected 15-year lifetime. 
 
 This means that if Ecosia were as big as Google, it could absorb 15% of all global CO2 emissions! {{</ faq >}}
 
