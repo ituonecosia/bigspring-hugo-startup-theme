@@ -19,8 +19,6 @@ Bu, eğer Ecosia Google kadar büyük olsaydı, tüm küresel CO2 emisyonların�
 
 {{< faq "Ecosia Nedir?" >}}
 
-![](/images/ecosia-turkiye.png)
-
 Ecosia hakkında bilgi almak için Ecosia Türkiye tarafından hazırlanmış [tanıtım slaytına](https://1drv.ms/p/s!Ao7zagjstarMhB38mCZ6xy6lv3Oz?e=xZFQAq) göz atabilirsiniz.
 
 {{</ faq >}}
