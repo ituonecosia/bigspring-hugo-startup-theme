@@ -16,3 +16,9 @@ Bu, eğer Ecosia Google kadar büyük olsaydı, tüm küresel CO2 emisyonların�
 
 {{< faq "B-Corp Sertifikası Nedir?" >}} Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
 {{</ faq >}}
+
+{{< faq "Ecosia Nedir?" >}}
+
+<iframe src="[https://onedrive.live.com/embed?cid=0F2679B208A3887A&amp;resid=F2679B208A3887A%21866&amp;authkey=ADnDDiYu3eI1z7w&amp;em=2&amp;wdAr=1.7777777777777777](https://onedrive.live.com/embed?cid=0F2679B208A3887A&amp;resid=F2679B208A3887A%21866&amp;authkey=ADnDDiYu3eI1z7w&amp;em=2&amp;wdAr=1.7777777777777777 "https://onedrive.live.com/embed?cid=0F2679B208A3887A&amp;resid=F2679B208A3887A%21866&amp;authkey=ADnDDiYu3eI1z7w&amp;em=2&amp;wdAr=1.7777777777777777")" width="350px" height="221px" frameborder="0">Bu <a target="_blank" href="[https://office.com/webapps](https://office.com/webapps "https://office.com/webapps")">Office</a> tarafından sağlanan eklenmiş bir <a target="_blank" href="[https://office.com](https://office.com "https://office.com")">Microsoft Office</a> belgesidir.</iframe>
+
+  {{</ faq >}}
