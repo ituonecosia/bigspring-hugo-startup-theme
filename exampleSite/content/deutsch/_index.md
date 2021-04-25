@@ -28,16 +28,16 @@ service:
     - images/ecosia-nedir.png
     content: "Ecosia.org is a search engine that uses 80% of its profits (47.1% of
       its revenue) from advertising revenue to support local non-profit organizations
-      focused on afforestation and tree planting projects. Currently Ecosia has 42
-      tree-planting projects across 25 countries such as Peru, Brazil, Burkina Faso
-      and Indonesia and to date it has planted <strong>more than 120 million trees</strong>.
-      It states that on average it takes 45 internet searches to fund the\nplanting
-      of a tree, and search results are provided by Bing and enhanced by the company's
-      own algorithms. The company publishes its monthly financial reports on its sites
-      and shares the green investments they make with their users. It has also committed
-      itself to be a privacy-friendly search engine in 2018, and for this purpose,
-      it is stated that personal data are not sold to advertisers and third party
-      trackers are not used. "
+      focused on afforestation and tree planting projects. Currently Ecosia has 60
+      different tree-planting projects across 30 countries such as Peru, Brazil, Burkina
+      Faso and Indonesia and to date it has planted <strong>more than 120 million
+      trees</strong>. It states that on average it takes 45 internet searches to fund
+      the\nplanting of a tree, and search results are provided by Bing and enhanced
+      by the company's own algorithms. The company publishes its monthly financial
+      reports on its sites and shares the green investments they make with their users.
+      It has also committed itself to be a privacy-friendly search engine in 2018,
+      and for this purpose, it is stated that personal data are not sold to advertisers
+      and third party trackers are not used. "
     button:
       enable: true
       label: Ecosia's Financial Reports
@@ -78,7 +78,7 @@ call_to_action:
   title: 'Are You Ready to Support the ITU on Ecosia Campaign? '
   image: images/cta.svg
   content: 'Click the button below, install Ecosia on your computer or phone with
-    the link ecosia.org/ITU produced exclusively for ITU and start using it, so that
+    the link ecosia.co/ITU produced exclusively for ITU and start using it, so that
     the trees you contribute to planting will be added to the ITU on Ecosia Campaign
     counter! '
   button:
