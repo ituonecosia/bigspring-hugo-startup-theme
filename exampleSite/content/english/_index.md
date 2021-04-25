@@ -30,14 +30,15 @@ service:
     content: Ecosia.org, reklam gelirlerinden elde ettiği karın %80'ini (gelirinin%
       47,1'i) ağaçlandırmaya odaklanan kâr amacı gütmeyen yerel kuruluşlara bağışlayan
       bir arama motorudur. Güncel olarak Peru, Brezilya, Burkina Faso ve Endonezya
-      gibi 25 farklı ülkede 42 ağaç dikme projesi vardır ve <strong> 120 milyondan
-      fazla ağaç</strong> dikilmesine öncülük etmiştir. Yapılan yaklaşık her 45 aramayla
-      bir ağacın dikilmesine yetecek paranın toplandığını belirtmekte ve arama sonuçlarını
-      Bing üzerinden aldığı verileri kendi algoritmalarıyla geliştirerek kullanıcıya
-      göstermektedir. Şirket aylık finansal raporlarını sitelerinde yayınlayıp yaptıkları
-      yeşil yatırımları takipçileriyle paylaşır. Ayrıca 2018 yılında gizlilik dostu
-      bir arama motoru olmayı taahhüt etmiştir ve bu amaçla kişisel verilerin reklamverenlere
-      satılmadığı ve üçüncü parti izleyicilerin kullanılmadığı belirtilmektedir.
+      gibi 30'dan fazla ülkede 60 farklı ağaç dikme projesini desteklemektedir ve
+      <strong> 120 milyondan fazla ağaç</strong> dikilmesine öncülük etmiştir. Yapılan
+      yaklaşık her 45 aramayla bir ağacın dikilmesine yetecek paranın toplandığını
+      belirtmekte ve arama sonuçlarını Bing üzerinden aldığı verileri kendi algoritmalarıyla
+      geliştirerek kullanıcıya göstermektedir. Şirket aylık finansal raporlarını sitelerinde
+      yayınlayıp yaptıkları yeşil yatırımları takipçileriyle paylaşır. Ayrıca 2018
+      yılında gizlilik dostu bir arama motoru olmayı taahhüt etmiştir ve bu amaçla
+      kişisel verilerin reklamverenlere satılmadığı ve üçüncü parti izleyicilerin
+      kullanılmadığı belirtilmektedir.
     button:
       enable: true
       label: Aylık Finansal Raporlar
@@ -78,7 +79,7 @@ call_to_action:
   enable: true
   title: ITU on Ecosia Kampanyasına Destek Olmaya Var Mısın?
   image: images/cta.svg
-  content: Aşağıda yer alan butona tıkla, İTÜ'ye özel üretilmiş ecosia.org/ITU linki
+  content: Aşağıda yer alan butona tıkla, İTÜ'ye özel üretilmiş ecosia.co/ITU linki
     ile bilgisayarına veya telefonuna Ecosia'yı yükle ve kullanmaya başla, böylece
     yaptığın aramalarla dikilmesine katkıda bulunduğun ağaçlar ITU on Ecosia Kampanya
     sayacına eklensin!
