@@ -4,7 +4,7 @@ subtitle: ''
 description: Istanbul Technical University on Ecosia
 
 ---
-{{< faq "ITU on Ecosia Kampanyasına Nasıl Katılabilirim?" >}} Lorem, [link](https://examplesite.com) _ipsum_ dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "ITU on Ecosia Kampanyasına Nasıl Katılabilirim?" >}}  İTÜ'ye özel üretilmiş [ecosia.co/ITU]() linki ile bilgisayarına veya telefonuna Ecosia'yı yükle ve kullanmaya başla, böylece yaptığın aramalarla dikilmesine katkıda bulunduğun ağaçlar ITU on Ecosia Kampanya sayacına eklensin!
 {{</ faq >}}
 
 {{< faq "CO2-negatif Nedir?" >}} Ecosia 2018'de kendi güneş enerjisi santrallerini kurmaya başladı. Böylece o zamandan beri, tüm Ecosia aramalarını % 100 yenilenebilir enerji ile gerçekleştirmek için sunuculara gerekli olan temiz enerji elde edildi.
